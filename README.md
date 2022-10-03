@@ -1,2 +1,2 @@
 # ThinkEr
-A notepad developed with Rust
+A terminal editor with Rust
